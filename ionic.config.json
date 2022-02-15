@@ -1,0 +1,8 @@
+{
+  "name": "ThesisApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0fc63991"
+}
